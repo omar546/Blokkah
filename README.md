@@ -66,18 +66,7 @@ lib/
 - **State Management**: BLoC pattern for predictable state handling
 - **Modular Design**: Features can be developed and tested independently
 - **Code Organization**: Clear separation between UI, business logic, and data
-- **Scalability**: Easy to add new features without affecting existing ones
-
-## 📱 Screenshots
-Here's your updated **README** section with the table removed and the screenshots separated into **Agent Flow** and **User Flow** as lists:
-
----
-
-## 📱 Screenshots
-
-Here's the updated **README** section with the requested changes:
-
----
+- **Scalability**: Easy to add new features without affecting existing one
 
 ## 📱 Screenshots
 
